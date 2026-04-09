@@ -23,9 +23,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Vantedge](https://github.com/petervannord/vantedge)**: A desktop optimizer built with **Electron** to streamline performance.
 - **iMathAS Gradebook Tracker**: A custom JavaScript solution for managing academic deadlines and grade projections.
-- **Freelance Shopify Development**: Crafting high-conversion storefronts for local businesses and automotive enthusiasts.
 
 ---
 
@@ -33,17 +31,15 @@
 
 When I'm not writing scripts, you can find me:
 - **Urban Exploration**: Documenting abandoned industrial architecture and train yards through a camera lens.
-- **Luxury Fashion**: Curating and researching high-end leather goods and timepieces.
-- **Mechanics**: Maintaining my 2012 Accord or preparing for my motorcycle license.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petervannord&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petervannord&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/petervannord?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FNew_York" alt="GitHub Metrics" />
 </p>
+
 
 <div align="center">
   <br />
