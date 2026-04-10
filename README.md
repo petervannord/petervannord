@@ -27,9 +27,9 @@
 
 | Project | Status | Tech Stack |
 | :--- | :---: | :--- |
-| **[SunSync UV Tracker](https://github.com/petervannord/SunSync)** | `Stable` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
+| **[SunSync UV Tracker](https://github.com/petervannord/SunSync)** | `Stable` | ![C++]([https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
 | **[iMathAS Gradebook](https://github.com/petervannord/iMathAS-Gradebook-Tracker-Enhanced)** | `Active` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square) |
-| **[Stealth Auto-Clicker](https://github.com/petervannord/Humanized-Stealth-Auto-Clicker---Mac)** | `Production` | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) |
+| **[Stealth Auto-Clicker](https://github.com/petervannord/Humanized-Stealth-Auto-Clicker---Mac)** | `Production` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) |
 
 <br />
 
