@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Hey... I'm Gabe 👋
 
@@ -90,3 +90,4 @@ A low-level system utility focused on anti-detection and organic interaction.
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&color=D4AF37&center=true&width=400&lines=Let's+build+something+incredible." alt="Footer Typing" />
 </div>
+](https://camo.githubusercontent.com/4f9db4dfc0075cf14a709e4c31290074bba05ec044aa6a19cf17deef09ed49df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
