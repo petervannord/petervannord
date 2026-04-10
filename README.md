@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 # Hey... I'm Gabe 👋
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Some Stuff I Can Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,9 +39,9 @@
 
 | Project | Status | Tech Stack |
 | :--- | :---: | :--- |
-| **[SunSync UV Utility](#-sunsync-uv-tanning-utility)** | `Stable` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
-| **[iMathAS Gradebook Tracker](#-imathas-gradebook-tracker-enhanced)** | `Active` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square) |
-| **[Stealth Auto-Clicker](#-humanized-stealth-auto-clicker)** | `Production` | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS_Kernel-000000?style=flat-square&logo=apple&logoColor=white) |
+| **[SunSync UV Tanning Tracker](https://github.com/petervannord/SunSync)** | `Stable` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
+| **[iMathAS Gradebook Tracker](https://github.com/petervannord/iMathAS-Gradebook-Tracker-Enhanced)** | `Active` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square) |
+| **[Stealth Auto-Clicker](https://github.com/petervannord/Humanized-Stealth-Auto-Clicker---Mac)** | `Production` | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS_Kernel-000000?style=flat-square&logo=apple&logoColor=white) |
 
 <details>
 <summary><b>☀️ SunSync UV Tanning Utility</b></summary>
@@ -80,14 +80,8 @@ A low-level system utility focused on anti-detection and organic interaction.
 
 ---
 
-### 📈 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/petervannord?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FNew_York" alt="GitHub Metrics" />
-</p>
 
 <div align="center">
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&color=D4AF37&center=true&width=400&lines=Let's+build+something+incredible." alt="Footer Typing" />
 </div>
-](https://camo.githubusercontent.com/4f9db4dfc0075cf14a709e4c31290074bba05ec044aa6a19cf17deef09ed49df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
