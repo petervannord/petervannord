@@ -12,24 +12,21 @@
 
 <div align="center">
 
-### 🛠️ Some Stuff I Can Work With
+### 🛠️ Technical Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <br />
+  <img src="https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=wireshark&logoColor=white" /><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /><br />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -38,17 +35,17 @@
 
 </div>
 
-
-
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Status | Tech Stack |
 | :--- | :---: | :--- |
-| **[SunSync UV Tanning Tracker](https://github.com/petervannord/SunSync)** | `Stable` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
-| **[iMathAS Gradebook Tracker](https://github.com/petervannord/iMathAS-Gradebook-Tracker-Enhanced)** | `Active` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square) |
-| **[Stealth Auto-Clicker](https://github.com/petervannord/Humanized-Stealth-Auto-Clicker---Mac)** | `Production` | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS_Kernel-000000?style=flat-square&logo=apple&logoColor=white) |
+| **[SunSync UV Tracker](https://github.com/petervannord/SunSync)** | `Stable` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-Weather_API-orange?style=flat-square) |
+| **[iMathAS Gradebook](https://github.com/petervannord/iMathAS-Gradebook-Tracker-Enhanced)** | `Active` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square) |
+| **[Stealth Auto-Clicker](https://github.com/petervannord/Humanized-Stealth-Auto-Clicker---Mac)** | `Production` | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) |
+
+<br />
 
 <details>
 <summary><b>☀️ SunSync UV Tanning Utility</b></summary>
@@ -81,14 +78,12 @@ A low-level system utility focused on anti-detection and organic interaction.
 
 ### 📸 Beyond the Code
 
-- **Urban Exploration:** I spend my weekends documenting abandoned industrial architecture and forgotten rust-belt relics.
-- **Precision Mechanics:** Deeply interested in the engineering behind Swiss automatic watches and precious metal restoration.
-- **Reverse Engineering:** Exploring the intersection of low-level software logic and hardware security.
+- **Urban Exploration:** Documenting abandoned industrial architecture and forgotten rust-belt relics.
+- **Precision Mechanics:** Exploring the engineering behind Swiss automatic watches and precious metal restoration.
+- **Reverse Engineering:** Analyzing the intersection of low-level software logic and hardware security.
 
 ---
 
-
 <div align="center">
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&color=D4AF37&center=true&width=400&lines=Let's+build+something+incredible." alt="Footer Typing" />
 </div>
