@@ -6,11 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
 </a>
 
+</div>
 ---
 
 ### 🛠️ Some Stuff I Can Work With
 
-<div align="center">
+
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=wireshark&logoColor=white" />
 
@@ -20,9 +21,9 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-</div>
 
-</div>
+
+
 
 ---
 
