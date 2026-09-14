@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-blue-forest.png&w=1400&h=380&fit=cover&a=top&output=png" width="100%" style="border-radius: 8px;" alt="Firewatch banner">
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png" width="100%" style="border-radius: 8px;" alt="Firewatch banner">
 
 
 <a href="https://git.io/typing-svg">
