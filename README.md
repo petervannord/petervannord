@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png&w=1400&h=380&fit=cover&a=bottom&output=png" width="100%" style="border-radius: 8px;" alt="Firewatch banner">
+<br>
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
@@ -8,16 +10,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-hijacking-mainframe-1a1a2e?style=for-the-badge&labelColor=0f3460&color=D4AF37" />
-
 </div>
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:5c3a1e,100:1a1a2e&height=3&width=1000" width="100%"/>
 
-<h3 align="center">ACT I — SYSTEMS & SIGNAL</h3>
-<p align="center"><sub><i>Every good story needs a toolset. Here's mine.</i></sub></p>
+<h3 align="center"><sub><i>Every good story needs a toolset. Here's mine.</i></sub></h3>
 
 <table align="center">
 <tr>
