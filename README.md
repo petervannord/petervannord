@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Peter%20Van%20Nord&fontSize=46&fontColor=D4AF37&fontAlignY=38&desc=Systems%20Tinkerer%20%7C%20Digital%20Explorer&descAlignY=58&descColor=E8C874&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-blue-forest.png" width="100%" style="border-radius: 8px; height: 220px; object-fit: cover;" alt="Firewatch banner">
+
+<sub><i>Header art: Olly Moss, <a href="https://firewatchgame.com/">Firewatch</a> key art (Campo Santo)</i></sub>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
@@ -127,6 +131,6 @@ A low-level system utility focused on anti-detection and organic interaction.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&color=D4AF37&center=true&width=420&lines=Let's+build+something+incredible." alt="Footer Typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1d0e,50:5c3a1e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
