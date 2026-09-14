@@ -9,13 +9,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-building_in_the_dark-1a1a2e?style=for-the-badge&labelColor=0f3460&color=D4AF37" />
+<img src="https://img.shields.io/badge/status-hijacking-mainframe-1a1a2e?style=for-the-badge&labelColor=0f3460&color=D4AF37" />
 
 </div>
 
 <br/>
-
-> *"Every system has a shadow — I go looking for it."*
 
 ---
 
