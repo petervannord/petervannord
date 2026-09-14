@@ -1,9 +1,13 @@
-<div style="background-image: url('https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png'); background-size: cover; background-position: center; border-radius: 12px; padding: 30px; border: 1px solid rgba(212, 175, 55, 0.3);">
-
 <div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png" width="100%" style="border-radius: 12px; max-height: 350px; object-fit: cover;" alt="Background Banner">
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
 </a>
+
 </div>
 
 ---
@@ -69,6 +73,4 @@ A low-level system utility focused on anti-detection and organic interaction.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&color=D4AF37&center=true&width=400&lines=Let's+build+something+incredible." alt="Footer Typing" />
-</div>
-
 </div>
