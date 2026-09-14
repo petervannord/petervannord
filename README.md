@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-blue-forest.png" width="100%" style="border-radius: 8px; height: 220px; object-fit: cover;" alt="Firewatch banner">
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-blue-forest.png" width="100%" style="border-radius: 8px; max-height: 320px;" alt="Firewatch banner">
 
 <sub><i>Header art: Olly Moss, <a href="https://firewatchgame.com/">Firewatch</a> key art (Campo Santo)</i></sub>
 
