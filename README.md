@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/status-hijacking-mainframe-1a1a2e?style=for-the-badge&labelColor=0f3460&color=D4AF37" />
-
 </div>
-
-<br/>
 
 ---
 
