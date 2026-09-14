@@ -1,13 +1,11 @@
-<div align="center">
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png" width="100%" style="border-radius: 12px; max-height: 350px; object-fit: cover;" alt="Background Banner">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-river.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" alt="Header Banner">
 </p>
 
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;Kernel+%26+Systems+Enthusiast;Urban+Explorer+%26+Photographer" alt="Typing SVG" />
 </a>
-
 </div>
 
 ---
