@@ -14,10 +14,6 @@
 
 <br/>
 
-<div align="center">
-<sub><i>ROLL SOUND. ROLL CAMERA. </i>🎬<i> MARK IT.</i></sub>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:5c3a1e,100:1a1a2e&height=3&width=1000" width="100%"/>
 
 <h3 align="center">ACT I — SYSTEMS & SIGNAL</h3>
