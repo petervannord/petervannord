@@ -54,7 +54,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:5c3a1e,100:1a1a2e&height=3&width=1000" width="100%"/>
 
-<h3 align="center">ACT II — SCREENED WORK</h3>
 <p align="center"><sub><i>Three features currently in release. Extended cuts below.</i></sub></p>
 
 <table align="center">
@@ -142,7 +141,6 @@ A low-level system utility focused on anti-detection and organic interaction.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:5c3a1e,100:1a1a2e&height=3&width=1000" width="100%"/>
 
-<h3 align="center">ACT III — OFF SCREEN</h3>
 <p align="center"><sub><i>What the camera doesn't usually catch.</i></sub></p>
 
 <table align="center">
